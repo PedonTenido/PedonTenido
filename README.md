@@ -1,7 +1,7 @@
 ## PEDON TENIDO, THE GREATEST DEVELOPER OF PEDOTENDO FREAKWORK!
 <hr>
 Pedon Tenido is the main founder of Pedotendo Freakwork, working on the project since its founding in 1575. <br>
-Pedon Tenido can code in...
+Pedon Tenido can code in... <br>
 - C++ <br>
 - HTML <br>
 - Java (Still learning) <br>
