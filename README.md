@@ -1,5 +1,5 @@
 ## PEDON TENIDO, THE GREATEST DEVELOPER OF PEDOTENDO FREAKWORK!
-<hr>
+
 Pedon Tenido is the main founder of Pedotendo Freakwork, working on the project since its founding in 1575. <br>
 <br>
 Pedon Tenido can code in... <br>
@@ -7,8 +7,8 @@ Pedon Tenido can code in... <br>
 - HTML <br>
 - Java (Still learning) <br>
 <br>
-## What Operating System does Pedon Tenido use?
-<hr>
+<h1> What Operating System does Pedon Tenido use?</h1>
+
 Pedon Tenido uses Linux 💖
 <br>
 💖Thank you for coming to Pedon Tenido's Profile! 💖
